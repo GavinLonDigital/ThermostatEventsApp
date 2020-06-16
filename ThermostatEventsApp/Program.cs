@@ -136,7 +136,7 @@ namespace ThermostatEventsApp
         public void On()
         {
             Console.WriteLine();
-            Console.WriteLine("Switching cooling mechanism on...");
+            Console.WriteLine("Cooling mechanism is on...");
             Console.WriteLine();
         }
     }
